@@ -1,0 +1,14 @@
+
+### Elixir ###
+**/.exercism/
+
+### Elixir ###
+/_build
+/config/*.secret.exs
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
