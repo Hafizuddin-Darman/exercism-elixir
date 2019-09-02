@@ -11,3 +11,4 @@ Repo for my exercism answer using elixir language
 | [RNA Transcription](https://exercism.io/tracks/elixir/exercises/rna-transcription) | [.exs](rna-transcription/rna_transcription.exs) |
 | [roman-numerals](https://exercism.io/tracks/elixir/exercises/roman-numerals) | [.exs](roman-numerals/roman.exs) |
 | [word-count](https://exercism.io/tracks/elixir/exercises/word-count) | [.exs](word-count/word_count.exs) |
+| [bob](https://exercism.io/tracks/elixir/exercises/bob) | [.exs](bob/lib/bob.ex) |
