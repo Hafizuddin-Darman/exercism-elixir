@@ -8,7 +8,7 @@ defmodule Bob do
   "Whatever."
 
   iex> Bob.hey("WATCH OUT!")
-  "Woah, chill out!"
+  "Whoa, chill out!"
 
   iex> Bob.hey("Does this cryogenic chamber make me look fat?")
   "Sure."
