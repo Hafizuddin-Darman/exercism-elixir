@@ -9,6 +9,7 @@ Repo for my exercism answer using elixir language
 |:--------:|:--------:|
 | [Hello World](https://exercism.io/tracks/elixir/exercises/hello-world) | [.exs](hello-world/hello_world.exs) |
 | [RNA Transcription](https://exercism.io/tracks/elixir/exercises/rna-transcription) | [.exs](rna-transcription/rna_transcription.exs) |
-| [roman-numerals](https://exercism.io/tracks/elixir/exercises/roman-numerals) | [.exs](roman-numerals/roman.exs) |
-| [word-count](https://exercism.io/tracks/elixir/exercises/word-count) | [.exs](word-count/word_count.exs) |
-| [bob](https://exercism.io/tracks/elixir/exercises/bob) | [.exs](bob/lib/bob.ex) |
+| [Roman Numerals](https://exercism.io/tracks/elixir/exercises/roman-numerals) | [.exs](roman-numerals/roman.exs) |
+| [Word Count](https://exercism.io/tracks/elixir/exercises/word-count) | [.exs](word-count/word_count.exs) |
+| [Bob](https://exercism.io/tracks/elixir/exercises/bob) | [.exs](bob/lib/bob.ex) |
+| [Beer Song](https://exercism.io/tracks/elixir/exercises/beer-song) | [.exs](beer-song/lib/beer_song.ex) |
