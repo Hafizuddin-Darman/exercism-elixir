@@ -13,3 +13,4 @@ Repo for my exercism answer using elixir language
 | [Word Count](https://exercism.io/tracks/elixir/exercises/word-count) | [.exs](word-count/word_count.exs) |
 | [Bob](https://exercism.io/tracks/elixir/exercises/bob) | [.exs](bob/lib/bob.ex) |
 | [Beer Song](https://exercism.io/tracks/elixir/exercises/beer-song) | [.exs](beer-song/lib/beer_song.ex) |
+| [Nucleotide Count](https://exercism.io/tracks/elixir/exercises/nucleotide-count) | [.exs](nucleotide-count/lib/nucleotide_count.ex) |
