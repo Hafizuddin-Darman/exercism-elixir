@@ -15,3 +15,4 @@ Repo for my exercism answer using elixir language
 | [Beer Song](https://exercism.io/tracks/elixir/exercises/beer-song) | [.exs](beer-song/lib/beer_song.ex) |
 | [Nucleotide Count](https://exercism.io/tracks/elixir/exercises/nucleotide-count) | [.exs](nucleotide-count/lib/nucleotide_count.ex) |
 | [Secret Handshake](https://exercism.io/tracks/elixir/exercises/secret-handshake) | [.exs](secret-handshake/lib/secret_handshake.ex) |
+| [Rotational Cipher](https://exercism.io/tracks/elixir/exercises/rotational-cipher) | [.exs](rotational-cipher/lib/rotational_cipher.ex) |
