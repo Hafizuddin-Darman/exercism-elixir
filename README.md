@@ -16,3 +16,4 @@ Repo for my exercism answer using elixir language
 | [Nucleotide Count](https://exercism.io/tracks/elixir/exercises/nucleotide-count) | [.exs](nucleotide-count/lib/nucleotide_count.ex) |
 | [Secret Handshake](https://exercism.io/tracks/elixir/exercises/secret-handshake) | [.exs](secret-handshake/lib/secret_handshake.ex) |
 | [Rotational Cipher](https://exercism.io/tracks/elixir/exercises/rotational-cipher) | [.exs](rotational-cipher/lib/rotational_cipher.ex) |
+| [Strain](https://exercism.io/tracks/elixir/exercises/strain) | [.exs](strain/lib/strain.ex) |
