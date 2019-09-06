@@ -18,3 +18,4 @@ Repo for my exercism answer using elixir language
 | [Rotational Cipher](https://exercism.io/tracks/elixir/exercises/rotational-cipher) | [.exs](rotational-cipher/lib/rotational_cipher.ex) |
 | [Strain](https://exercism.io/tracks/elixir/exercises/strain) | [.exs](strain/lib/strain.ex) |
 | [Protein Translation](https://exercism.io/tracks/elixir/exercises/protein-translation) | [.exs](protein-translation/lib/protein_translation.ex) |
+| [Pig Latin](https://exercism.io/tracks/elixir/exercises/pig-latin) | [.exs](pig-latin/lib/pig_latin.ex) |
