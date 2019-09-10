@@ -19,7 +19,7 @@ defmodule PigLatin do
     # split each word from phrase
     |> String.split(" ")
     # process each words
-    |> Enum.map_join(" ", &process_word(&1))
+    |> Enum.map_join(" ", &process_word/1)
   end
 
   # # the short solution :P
