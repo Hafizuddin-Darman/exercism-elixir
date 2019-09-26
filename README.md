@@ -20,3 +20,4 @@ Repo for my exercism answer using elixir language
 | [Protein Translation](https://exercism.io/tracks/elixir/exercises/protein-translation) | [.exs](protein-translation/lib/protein_translation.ex) |
 | [Pig Latin](https://exercism.io/tracks/elixir/exercises/pig-latin) | [.exs](pig-latin/lib/pig_latin.ex) |
 | [Space Age](https://exercism.io/tracks/elixir/exercises/space-age) | [.exs](space-age/lib/space_age.ex) |
+| [Twelve Days](https://exercism.io/tracks/elixir/exercises/twelve-days) | [.exs](twelve-days/lib/twelve_days.ex) |
