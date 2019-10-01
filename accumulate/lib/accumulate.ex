@@ -16,6 +16,11 @@ defmodule Accumulate do
   """
 
   @spec accumulate(list, (any -> any)) :: list
-  def accumulate(list, fun) do
+  # Set default return
+  def accumulate([], _fun), do: []
+
+  def accumulate([head | tail], fun) do
+    # initiate the recursive call
+    [fun.(head) | accumulate(tail, fun)]
   end
 end
