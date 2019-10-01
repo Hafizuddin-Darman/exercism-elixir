@@ -22,3 +22,4 @@ Repo for my exercism answer using elixir language
 | [Space Age](https://exercism.io/tracks/elixir/exercises/space-age) | [.exs](space-age/lib/space_age.ex) |
 | [Twelve Days](https://exercism.io/tracks/elixir/exercises/twelve-days) | [.exs](twelve-days/lib/twelve_days.ex) |
 | [Accumulate](https://exercism.io/tracks/elixir/exercises/accumulate) | [.exs](accumulate/lib/accumulate.ex) |
+| [Acronym](https://exercism.io/tracks/elixir/exercises/acronym) | [.exs](acronym/lib/acronym.ex) |
