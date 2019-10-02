@@ -23,3 +23,4 @@ Repo for my exercism answer using elixir language
 | [Twelve Days](https://exercism.io/tracks/elixir/exercises/twelve-days) | [.exs](twelve-days/lib/twelve_days.ex) |
 | [Accumulate](https://exercism.io/tracks/elixir/exercises/accumulate) | [.exs](accumulate/lib/accumulate.ex) |
 | [Acronym](https://exercism.io/tracks/elixir/exercises/acronym) | [.exs](acronym/lib/acronym.ex) |
+| [Series](https://exercism.io/tracks/elixir/exercises/series) | [.exs](series/lib/series.ex) |
