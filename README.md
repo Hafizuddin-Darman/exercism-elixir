@@ -24,3 +24,4 @@ Repo for my exercism answer using elixir language
 | [Accumulate](https://exercism.io/tracks/elixir/exercises/accumulate) | [.exs](accumulate/lib/accumulate.ex) |
 | [Acronym](https://exercism.io/tracks/elixir/exercises/acronym) | [.exs](acronym/lib/acronym.ex) |
 | [Series](https://exercism.io/tracks/elixir/exercises/series) | [.exs](series/lib/series.ex) |
+| [Raindrops](https://exercism.io/tracks/elixir/exercises/raindrops) | [.exs](raindrops/lib/raindrops.ex) |
