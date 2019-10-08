@@ -23,6 +23,6 @@ Repo for my exercism answer using elixir language
 | [Twelve Days](https://exercism.io/tracks/elixir/exercises/twelve-days) | [.exs](twelve-days/lib/twelve_days.ex) |
 | [Accumulate](https://exercism.io/tracks/elixir/exercises/accumulate) | [.exs](accumulate/lib/accumulate.ex) |
 | [Acronym](https://exercism.io/tracks/elixir/exercises/acronym) | [.exs](acronym/lib/acronym.ex) |
-| [Series](https://exercism.io/tracks/elixir/exercises/series) | [.exs](series/lib/series.ex) |
+| [Series](https://exercism.io/tracks/elixir/exercises/series) | [.exs](series/lib/string_series.ex) |
 | [Raindrops](https://exercism.io/tracks/elixir/exercises/raindrops) | [.exs](raindrops/lib/raindrops.ex) |
 | [Run Length Encoding](https://exercism.io/tracks/elixir/exercises/run-length-encoding) | [.exs](run-length-encoding/lib/run_length_encoder.ex) |
