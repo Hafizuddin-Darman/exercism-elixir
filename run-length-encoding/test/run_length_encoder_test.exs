@@ -1,5 +1,6 @@
 defmodule RunLengthEncoderTest do
   use ExUnit.Case
+  doctest RunLengthEncoder
 
   test "encode empty string" do
     assert RunLengthEncoder.encode("") === ""
