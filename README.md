@@ -26,3 +26,4 @@ Repo for my exercism answer using elixir language
 | [Series](https://exercism.io/tracks/elixir/exercises/series) | [.exs](series/lib/string_series.ex) |
 | [Raindrops](https://exercism.io/tracks/elixir/exercises/raindrops) | [.exs](raindrops/lib/raindrops.ex) |
 | [Run Length Encoding](https://exercism.io/tracks/elixir/exercises/run-length-encoding) | [.exs](run-length-encoding/lib/run_length_encoder.ex) |
+| [Sublist](https://exercism.io/tracks/elixir/exercises/sublist) | [.exs](sublist/lib/sublist.ex) |
